@@ -1,5 +1,5 @@
 pool:
-  vmImage: 'ubuntu-18.04'
+  vmImage: ubuntu-18.04
 trigger:
   - master
 steps:
@@ -39,4 +39,4 @@ steps:
     inputs:
       targetPath: '$(build.artifactstagingdirectory)'
       artifact: 'drop'
-      publishLocation: 'pipeline
+      publishLocation: 'pipeline'
