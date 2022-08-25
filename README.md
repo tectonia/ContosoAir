@@ -1,7 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
-[![Build Status](https://dev.azure.com/martynam/contosoair1/_apis/build/status/tectonia.ContosoAir?branchName=master)](https://dev.azure.com/martynam/contosoair1/_build/latest?definitionId=35&branchName=master)
-
 # Microsoft.Github CI Demo
 
 Demo website application for Contoso Air.  
