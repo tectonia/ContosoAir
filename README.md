@@ -2,7 +2,7 @@
 
 [![Build Status](https://dev.azure.com/martynam/contosoair1/_apis/build/status/tectonia.ContosoAir?branchName=master)](https://dev.azure.com/martynam/contosoair1/_build/latest?definitionId=35&branchName=master)
 
-# Microsoft.Github CI Demo
+# WELCOME
 
 Demo website application for Contoso Air.  
 Runs a nodejs server (Express v4.16) that stores customer booked flights in a CosmosDb database.
